@@ -1,0 +1,12 @@
+datatable	inspectDT
+explore	shiny
+inspect	inspectDT
+inspectDT	inspectDT
+plot	plot
+plot.grouped_matrix	plot
+plot.itemsets	plot
+plot.rules	plot
+plotly	plotly_arules
+plotly_arules	plotly_arules
+ruleExplorer	shiny
+saveAsGraph	save
